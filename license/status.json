@@ -1,7 +1,8 @@
 {
   "allowed": true,
   "allowedMachineIds": [
-    "d9b61637-c50a-431a-bcd1-972789151b39"
+    "d9b61637-c50a-431a-bcd1-972789151b39",
+    "{30b2a55f-ef4b-4aae-b369-da85ae0617b9}"
   ],
   "message": "승인되지 않은 기기입니다."
 }
